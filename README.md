@@ -51,7 +51,7 @@ I am a passionate **Fresher Fullstack Developer** with a strong foundation in ba
   - My personal portfolio website showcasing my projects and skills.
 <!-- Add more projects -->
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhnhut170701&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
 ## 🌱 Currently learning
 - React
 - Spring
