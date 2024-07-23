@@ -1,7 +1,8 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
  Fresher Fullstack Developer
-<a href="https://parth-johri.vercel.app/">
+<a href="https://parth-johri.vercel.app/"
+>
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
@@ -19,6 +20,7 @@ I am a passionate **Fresher Fullstack Developer** with a strong foundation in ba
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,7 +51,7 @@ I am a passionate **Fresher Fullstack Developer** with a strong foundation in ba
   - My personal portfolio website showcasing my projects and skills.
 <!-- Add more projects -->
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhnhut170701&show_icons=true&theme=radical)
 ## 🌱 Currently learning
 - React
 - Spring
