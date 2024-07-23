@@ -1,16 +1,60 @@
-# 💫About Me :
-I am a passionate Fresher Backend Developer with a strong foundation in backend technologies. A Versatile Developer a Passion for Continuous Learning. My expertise lies in Independently design and build web infrastructure, ensuring that web applications run smoothly and efficiently from database to server, operating optimally and securely. I thrive on solving challenging problems and creating innovative solutions.
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+ Fesher Fullstack Developer
+<a href="https://parth-johri.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+</a>
 
+   <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+</h2>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/heaven0405/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/congdev) 
+<div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVnZ2xocDRna2FkOXFraG9lMHB3NTE5Z3psNzcwdzJiZGZmc3J1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" style="height:300px;" />
+</div>
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+I am a passionate Fresher Fullstack Developer with a strong foundation in backend technologies. A Versatile Developer a Passion for Continuous Learning. My expertise lies in Independently design and build web infrastructure, ensuring that web applications run smoothly and efficiently from database to server, operating optimally and securely. I thrive on solving challenging problems and creating innovative solutions.
+## 🛠️ Skills
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=heaven-vo&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=heaven-vo&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heaven-vo&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
----
-[![](https://visitcount.itsvg.in/api?id=heaven-vo&icon=0&color=0)](https://visitcount.itsvg.in)
+### Backend
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!-- Add more skills badges -->
+## 🚀 Projects
+- **My API**
+  - [GitHub](https://github.com/yourusername/weather-app) | [Live Demo](https://weather-app.yourdomain.com)
+  - A back-end system built with Spring + MongoDB
+- **My Movie**
+  - [GitHub](https://github.com/yourusername/task-manager) | [Live Demo](https://task-manager.yourdomain.com)
+  - A front-end system built with React + Tailwind
+- **Portfolio Website**
+  - [Live Site](https://yourusername.github.io/portfolio)
+  - My personal portfolio website showcasing my projects and skills.
+- **CongDongChungCu**
+  - [Live Site](https://yourusername.github.io/portfolio)
+  - My personal portfolio website showcasing my projects and skills.
+- **ALS VietNam**
+  - [Live Site](https://yourusername.github.io/portfolio)
+  - My personal portfolio website showcasing my projects and skills.
+<!-- Add more projects -->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
+## 🌱 Currently learning
+- React
+- Spring
+- ASP.NET
+<!-- Add more current learning goals -->
+## 📫 Get in touch
+- LinkedIn: www.linkedin.com/in/congdev
+- Email: congvo.heaven@gmail.com
+- Portfolio: [Your Portfolio](Your portfolio URL)
+
