@@ -3,7 +3,7 @@
  Fresher Software Engineer
 <a href="https://parth-johri.vercel.app/"
 >
-    <img src="https://vercel.com/heaven-vos-projects/heaven-portfolio&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+    <img src="https://vercel.com/heaven-vos-projects/heaven-portfolio?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
