@@ -29,7 +29,7 @@ Hi there! I'm Heaven, a fresher software engineer passionate about building secu
   - RESTful API design
   - CLI-based tools and system automation
   - Docker basics and deployment pipelines
-  - 
+  
 ## 🛠️ Skills
 
 ### Languages
