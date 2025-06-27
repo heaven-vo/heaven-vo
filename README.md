@@ -15,31 +15,21 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" > About Me </img>
 
-Hi there! I'm Chí, a junior software engineer passionate about building secure, scalable backend systems and exploring the fascinating world of cybersecurity. I thrive on solving real-world problems with code and learning how to protect systems from the ground up.
+Hi there! I'm Heaven, a fresher software engineer passionate about building secure, scalable backend systems and exploring the fascinating world of cybersecurity. I thrive on solving real-world problems with code and learning how to protect systems from the ground up.
 
 🔧 My current focus areas include:
-
-Backend Development
-
-Python, FastAPI, Flask
-
-SQL & NoSQL (PostgreSQL, MongoDB)
-
-RESTful API design
-
-CLI-based tools and system automation
-
-Docker basics and deployment pipelines
-
-Cybersecurity Foundations
-
-Secure authentication workflows (bcrypt, RBAC, password policy)
-
-Brute-force mitigation & anomaly detection
-
-Port scanning, log analysis, and basic SIEM concepts
-
-File integrity checks & simple intrusion detection logic
+- **Cybersecurity Foundations**
+  - Secure authentication workflows (bcrypt, RBAC, password policy)
+  - Brute-force mitigation & anomaly detection
+  - Port scanning, log analysis, and basic SIEM concepts
+  - File integrity checks & simple intrusion detection logic
+- **Backend Developer**
+  - Java, C#
+  - SQL & NoSQL (PostgreSQL, MongoDB)
+  - RESTful API design
+  - CLI-based tools and system automation
+  - Docker basics and deployment pipelines
+  - 
 ## 🛠️ Skills
 
 ### Languages
