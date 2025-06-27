@@ -30,20 +30,26 @@ I am a passionate **Fresher Software Engineer** with a strong foundation in soft
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 <!-- Add more skills badges -->
+
 ## 🚀 Projects
-- **My API**
-  - [GitHub](https://github.com/yourusername/weather-app) | [Live Demo](https://weather-app.yourdomain.com)
-  - A back-end system built with Spring + MongoDB
-- **My Movie**
-  - [GitHub](https://github.com/yourusername/task-manager) | [Live Demo](https://task-manager.yourdomain.com)
-  - A front-end system built with React + Tailwind
 - **Portfolio Website**
-  - [Live Site](https://yourusername.github.io/portfolio)
+  - [Live Site](https://heaven-portfolio.vercel.app/)
   - My personal portfolio website showcasing my projects and skills.
+- **Authen & Author**
+  - [GitHub](https://github.com/heaven-vo/Authen-Author.git)
+  - A Cyber Security system built with Python
+- **Port-Scanner**
+  - [GitHub](https://github.com/heaven-vo/Port-Scanner.git) 
+  - A Cyber Security system built with Python
+- **Password-Strength-Checker**
+  - [GitHub](https://github.com/heaven-vo/Password-Strength-Checker.git)
+  - A Cyber Security system built with Python
 - **CongDongChungCu**
   - [Live Site](https://yourusername.github.io/portfolio)
   - My personal portfolio website showcasing my projects and skills.
@@ -54,9 +60,9 @@ I am a passionate **Fresher Software Engineer** with a strong foundation in soft
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
 ## 🌱 Currently learning
-- React
+- Cyber Security
+- Devops
 - Spring
-- ASP.NET
 <!-- Add more current learning goals -->
 ## 📫 Get in touch
 - LinkedIn: www.linkedin.com/in/congdev
