@@ -65,11 +65,11 @@ Hi there! I'm Heaven, a fresher software engineer passionate about building secu
   - [GitHub](https://github.com/heaven-vo/Password-Strength-Checker.git)
   - A Cyber Security system built with Python
 - **CongDongChungCu**
-  - [Live Site](https://yourusername.github.io/portfolio)
-  - My personal portfolio website showcasing my projects and skills.
+  - [GitHub](https://github.com/heaven-vo/DeliveryVinhome.git)
+  - Vinhome Grand Park internal delivery system
 - **ALS VietNam**
-  - [Live Site](https://yourusername.github.io/portfolio)
-  - My personal portfolio website showcasing my projects and skills.
+  - [Live Site](https://alsvietnam.org/donation)
+  - A website i made with my team for a business while in college
 <!-- Add more projects -->
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
