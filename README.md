@@ -15,8 +15,39 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" > About Me </img>
 
-I am a passionate **Fresher Software Engineer** with a strong foundation in software technologies. A Versatile Developer a Passion for Continuous Learning. My expertise lies in Independently design and build web infrastructure, ensuring that web applications run smoothly and efficiently from database to server, operating optimally and securely. I thrive on solving challenging problems and creating innovative solutions.
+Hi there! I'm Chí, a junior software engineer passionate about building secure, scalable backend systems and exploring the fascinating world of cybersecurity. I thrive on solving real-world problems with code and learning how to protect systems from the ground up.
+
+🔧 My current focus areas include:
+
+Backend Development
+
+Python, FastAPI, Flask
+
+SQL & NoSQL (PostgreSQL, MongoDB)
+
+RESTful API design
+
+CLI-based tools and system automation
+
+Docker basics and deployment pipelines
+
+Cybersecurity Foundations
+
+Secure authentication workflows (bcrypt, RBAC, password policy)
+
+Brute-force mitigation & anomaly detection
+
+Port scanning, log analysis, and basic SIEM concepts
+
+File integrity checks & simple intrusion detection logic
 ## 🛠️ Skills
+
+### Languages
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,13 +59,6 @@ I am a passionate **Fresher Software Engineer** with a strong foundation in soft
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 <!-- Add more skills badges -->
 
 ## 🚀 Projects
@@ -67,5 +91,5 @@ I am a passionate **Fresher Software Engineer** with a strong foundation in soft
 ## 📫 Get in touch
 - LinkedIn: www.linkedin.com/in/congdev
 - Email: congvo.heaven@gmail.com
-- Portfolio: [Your Portfolio](Your portfolio URL)
+- Portfolio: https://heaven-portfolio.vercel.app/
 
