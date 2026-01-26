@@ -18,14 +18,14 @@
 Hi there! I'm Heaven, a fresher software engineer passionate about building secure, scalable backend systems and exploring the fascinating world of cybersecurity. I thrive on solving real-world problems with code and learning how to protect systems from the ground up.
 
 🔧 My current focus areas include:
-- **Cybersecurity Foundations**
+- **Devops**
   - Secure authentication workflows (bcrypt, RBAC, password policy)
   - Brute-force mitigation & anomaly detection
   - Port scanning, log analysis, and basic SIEM concepts
   - File integrity checks & simple intrusion detection logic
 - **Backend Developer**
-  - Java, C#
-  - SQL & NoSQL (PostgreSQL, MongoDB)
+  - Java
+  - SQL & NoSQL (PostgreSQL)
   - RESTful API design
   - CLI-based tools and system automation
   - Docker basics and deployment pipelines
@@ -33,25 +33,26 @@ Hi there! I'm Heaven, a fresher software engineer passionate about building secu
 ## 🛠️ Skills
 
 ### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <!-- Add more skills badges -->
 
 ## 🚀 Projects
+-**Patient Management**
+  - [Live Site]()
+  - 
 - **Portfolio Website**
   - [Live Site](https://heaven-portfolio.vercel.app/)
   - My personal portfolio website showcasing my projects and skills.
@@ -74,12 +75,13 @@ Hi there! I'm Heaven, a fresher software engineer passionate about building secu
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
 ## 🌱 Currently learning
-- Cyber Security
 - Devops
-- Spring
+- Backend (Spring)
+- Cyber Security
 <!-- Add more current learning goals -->
 ## 📫 Get in touch
+- Portfolio: https://heaven-portfolio.vercel.app/
 - LinkedIn: www.linkedin.com/in/congdev
 - Email: congvo.heaven@gmail.com
-- Portfolio: https://heaven-portfolio.vercel.app/
+
 
