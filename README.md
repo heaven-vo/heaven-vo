@@ -15,7 +15,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" > About Me </img>
 
-Hi there! I'm Heaven, a fresher software engineer passionate about building secure, scalable backend systems and exploring the fascinating world of cybersecurity. I thrive on solving real-world problems with code and learning how to protect systems from the ground up.
+Hi there! I'm Heaven, a backend engineer with hands-on experience in building secure and scalable systems using Spring Boot. Solid understanding of Agile, Scrum, and Waterfall methodologies, combined with strong knowledge of object-oriented design, RESTful APIs, and CI/CD practices.
 
 🔧 My current focus areas include:
 - **Devops**
