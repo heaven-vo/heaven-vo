@@ -82,8 +82,6 @@ Always striving to transform complex business requirements into elegant, efficie
   - [Live Site](https://alsvietnam.org)
   - 🔄 Successfully ported legacy Java source code to .NET framework. Focused on bug fixing, performance optimization, and ensuring feature parity across platforms.
 <!-- Add more projects -->
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
 ## 🌱 Currently learning
 - Devops Engineer
 - Backend Engineer
