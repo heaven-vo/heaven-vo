@@ -69,18 +69,18 @@ Always striving to transform complex business requirements into elegant, efficie
 ![Agile](https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge&logo=scrum-alliance)
 
 ## 🚀 Projects
-- **Patient-Management-System**
+- **Patient-Management-System (Core Backend - Spring Boot/gRPC)**
   - [GitHub](https://github.com/heaven-vo/patient-management-system)
-  - High-performance Microservices ecosystem built with Spring Boot 3. Features gRPC for low-latency communication, PostgreSQL for data integrity, and Docker for seamless orchestration.
-- **Apartment-Delivery-Ecosystem**
+  - 🏥 High-performance Microservices ecosystem built with Spring Boot 3. Features gRPC for low-latency communication, PostgreSQL for data integrity, and Docker for seamless orchestration.
+- **Apartment-Delivery-Ecosystem (Team Lead/Algorithm)**
   - [GitHub](https://github.com/heaven-vo/DeliveryVinhome.git)
-  - Full-stack ecosystem (4 apps) with a specialized Route Optimization Algorithm. Built with Node.js/React, featuring real-time data sync and Agile-led project lifecycle.
-- **Advanced-Auth-Security-System**
+  - 🚚 Full-stack ecosystem (4 apps) with a specialized Route Optimization Algorithm. Built with Node.js/React, featuring real-time data sync and Agile-led project lifecycle.
+- **Advanced-Auth-Security-System (Auth/Security)**
   - [GitHub](https://github.com/heaven-vo/Authen-Author.git)
-  - Cybersecurity-focused authentication system. Implements NIST/OWASP standards, Bcrypt hashing, brute-force mitigation, and behavioral anomaly detection using Python.
-- **ALS VietNam**
-  - [Live Site](https://alsvietnam.org/donation)
-  - A website i made with my team for a business while in college
+  - 🛡️ Cybersecurity-focused authentication system. Implements NIST/OWASP standards, Bcrypt hashing, brute-force mitigation, and behavioral anomaly detection using Python.
+- **ALS VietNam (Team Lead)**
+  - [Live Site](https://alsvietnam.org)
+  - 🔄 Successfully ported legacy Java source code to .NET framework. Focused on bug fixing, performance optimization, and ensuring feature parity across platforms.
 <!-- Add more projects -->
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
