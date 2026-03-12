@@ -66,20 +66,11 @@ Always striving to transform complex business requirements into elegant, efficie
 ![Agile](https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge&logo=scrum-alliance)
 
 ## 🚀 Projects
--**Patient Management**
-  - [Live Site]()
-  - 
-- **Portfolio Website**
-  - [Live Site](https://heaven-portfolio.vercel.app/)
+- **Patient Management**
+  - [GitHub](https://github.com/heaven-vo/patient-management-system)
   - My personal portfolio website showcasing my projects and skills.
 - **Authen & Author**
   - [GitHub](https://github.com/heaven-vo/Authen-Author.git)
-  - A Cyber Security system built with Python
-- **Port-Scanner**
-  - [GitHub](https://github.com/heaven-vo/Port-Scanner.git) 
-  - A Cyber Security system built with Python
-- **Password-Strength-Checker**
-  - [GitHub](https://github.com/heaven-vo/Password-Strength-Checker.git)
   - A Cyber Security system built with Python
 - **CongDongChungCu**
   - [GitHub](https://github.com/heaven-vo/DeliveryVinhome.git)
