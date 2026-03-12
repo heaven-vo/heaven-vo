@@ -85,11 +85,12 @@ Always striving to transform complex business requirements into elegant, efficie
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven-vo&show_icons=true&theme=radical)
 ## 🌱 Currently learning
-- Devops
-- Backend (Spring)
+- Devops Engineer
+- Backend Engineer
 - Cyber Security
 <!-- Add more current learning goals -->
-## 📫 Get in touch
+## 📩 Get in touch
+I'm always open to discussing Backend Engineer, Devops Engineer, Cybersecurity, or potential collaborations. Feel free to reach out!
 - Portfolio: https://heaven-portfolio.vercel.app/
 - LinkedIn: www.linkedin.com/in/congdev
 - Email: congvo.heaven@gmail.com
