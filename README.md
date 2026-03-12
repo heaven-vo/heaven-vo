@@ -15,7 +15,18 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" > About Me </img>
 
-Hi there! I'm Heaven, a backend engineer with hands-on experience in building secure and scalable systems using Spring Boot. Solid understanding of Agile, Scrum, and Waterfall methodologies, combined with strong knowledge of object-oriented design, RESTful APIs, and CI/CD practices.
+**Hi there! I'm Heaven (Công) 👋
+Backend Engineer | Specialized in High-Performance Distributed Systems**
+
+I am a Backend Engineer passionate about architecting scalable, resilient, and high-performance systems. My expertise lies in building Microservices ecosystems with Java & Spring Boot, leveraging gRPC and Protocol Buffers for optimized inter-service communication.
+
+**What I bring to the table:**
+  - System Architecture: Proficient in designing decoupled Microservices and robust RESTful APIs.
+  - Technical Depth: Strong foundation in SOLID principles, Object-Oriented Design, and Database Optimization (PostgreSQL).
+  - DevOps Mindset: Experienced in containerization with Docker & Kubernetes, and automating workflows via CI/CD pipelines.
+  - Performance & Security: Dedicated to delivering secure, well-documented, and low-latency software products under Agile/Scrum methodologies.
+
+Always striving to transform complex business requirements into elegant, efficient, and maintainable code.
 
 🔧 My current focus areas include:
 - **Devops**
