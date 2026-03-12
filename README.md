@@ -29,15 +29,18 @@ Always striving to transform complex business requirements into elegant, efficie
 
 🔧 My current focus areas include:
 - **Advanced Backend Engineering**
-  - Deep diving into Spring Boot 3 and high-performance RESTful API design.
-  - Advanced PostgreSQL (Indexing, Query Optimization).
-  - Optimizing Microservices communication using gRPC & Protocol Buffers.
+  - Java Ecosystem: Advanced application development using Spring Boot 3, focusing on high-performance and maintainable code.
+  - Data Management: Relational database design with PostgreSQL, specializing in schema optimization and complex query handling(Indexing, Query Optimization).
+  - System Architecture: Designing robust RESTful APIs and implementing Microservices communication using gRPC and Protocol Buffers.
+  - Automation: Building CLI-based tools for system automation and streamlining developer workflows.
 - **Devops**
-  - Container orchestration with Docker & Kubernetes.
-  - Automating delivery via CI/CD pipelines and system monitoring.
+  - Containerization: Orchestrating services using Docker & Docker Compose for consistent environment deployment.
+  - CI/CD Pipelines: Automating build, test, and deployment phases to ensure rapid and reliable software delivery.
+  - Modern Observability: Basic concepts of intrusion detection logic and system telemetry to maintain high availability.
 - **Security & System Resilience**
-  - Implementing Secure Authentication (RBAC, bcrypt) and Behavioral Anomaly Detection.
-  - Mitigating Brute-force attacks and integrating NIST/OWASP security standards.
+  - Identity & Access Management (IAM): Implementing secure authentication flows using JWT, bcrypt hashing, and Role-Based Access Control (RBAC).
+  - Threat Mitigation: Designing defense mechanisms against Brute-force attacks and implementing intelligent account lockout policies.
+  - Security Auditing: Proficiency in behavioral anomaly detection, log analysis, and file integrity monitoring.
 
 ## 🛠️ Technical Skills
 
@@ -66,15 +69,15 @@ Always striving to transform complex business requirements into elegant, efficie
 ![Agile](https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge&logo=scrum-alliance)
 
 ## 🚀 Projects
-- **Patient Management**
+- **Patient-Management-System**
   - [GitHub](https://github.com/heaven-vo/patient-management-system)
-  - My personal portfolio website showcasing my projects and skills.
-- **Authen & Author**
-  - [GitHub](https://github.com/heaven-vo/Authen-Author.git)
-  - A Cyber Security system built with Python
-- **CongDongChungCu**
+  - High-performance Microservices ecosystem built with Spring Boot 3. Features gRPC for low-latency communication, PostgreSQL for data integrity, and Docker for seamless orchestration.
+- **Apartment-Delivery-Ecosystem**
   - [GitHub](https://github.com/heaven-vo/DeliveryVinhome.git)
-  - Vinhome Grand Park internal delivery system
+  - Full-stack ecosystem (4 apps) with a specialized Route Optimization Algorithm. Built with Node.js/React, featuring real-time data sync and Agile-led project lifecycle.
+- **Advanced-Auth-Security-System**
+  - [GitHub](https://github.com/heaven-vo/Authen-Author.git)
+  - Cybersecurity-focused authentication system. Implements NIST/OWASP standards, Bcrypt hashing, brute-force mitigation, and behavioral anomaly detection using Python.
 - **ALS VietNam**
   - [Live Site](https://alsvietnam.org/donation)
   - A website i made with my team for a business while in college
