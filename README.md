@@ -15,10 +15,9 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" > About Me </img>
 
-**Hi there! I'm Heaven (Công) 👋
-Backend Engineer | Specialized in High-Performance Distributed Systems**
+**Hi there! I'm Heaven (Công) 👋**
 
-I am a Backend Engineer passionate about architecting scalable, resilient, and high-performance systems. My expertise lies in building Microservices ecosystems with Java & Spring Boot, leveraging gRPC and Protocol Buffers for optimized inter-service communication.
+I am a Backend Engineer passionate about architecting scalable, resilient, and high-performance systems.
 
 **What I bring to the table:**
   - System Architecture: Proficient in designing decoupled Microservices and robust RESTful APIs.
@@ -29,17 +28,16 @@ I am a Backend Engineer passionate about architecting scalable, resilient, and h
 Always striving to transform complex business requirements into elegant, efficient, and maintainable code.
 
 🔧 My current focus areas include:
+- **Advanced Backend Engineering**
+  - Deep diving into Spring Boot 3 and high-performance RESTful API design.
+  - Advanced PostgreSQL (Indexing, Query Optimization).
+  - Optimizing Microservices communication using gRPC & Protocol Buffers.
 - **Devops**
-  - Secure authentication workflows (bcrypt, RBAC, password policy)
-  - Brute-force mitigation & anomaly detection
-  - Port scanning, log analysis, and basic SIEM concepts
-  - File integrity checks & simple intrusion detection logic
-- **Backend Developer**
-  - Java
-  - SQL & NoSQL (PostgreSQL)
-  - RESTful API design
-  - CLI-based tools and system automation
-  - Docker basics and deployment pipelines
+  - Container orchestration with Docker & Kubernetes.
+  - Automating delivery via CI/CD pipelines and system monitoring.
+- **Security & System Resilience**
+  - Implementing Secure Authentication (RBAC, bcrypt) and Behavioral Anomaly Detection.
+  - Mitigating Brute-force attacks and integrating NIST/OWASP security standards.
   
 ## 🛠️ Skills
 
