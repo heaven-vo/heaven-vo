@@ -38,31 +38,29 @@ Always striving to transform complex business requirements into elegant, efficie
 - **Security & System Resilience**
   - Implementing Secure Authentication (RBAC, bcrypt) and Behavioral Anomaly Detection.
   - Mitigating Brute-force attacks and integrating NIST/OWASP security standards.
-  
-## 🛠️ Skills
 
-### 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-**Scripting & Programming**
+## Scripting & Programming
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Architecture & Protocols**
+## Architecture & Protocols
 ![Microservices](https://img.shields.io/badge/microservices-FF6600?style=for-the-badge&logo=architecture&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![REST](https://img.shields.io/badge/rest-005571?style=for-the-badge&logo=api&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**DevOps & Tools**
+## DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
-**Core Concepts**
+## Core Concepts
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge&logo=scrum-alliance)
